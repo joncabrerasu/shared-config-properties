@@ -1,2 +1,9 @@
-sample:
-  msg: This property applies to account-service
+# MONGODB (MongoProperties)
+spring:
+  data:
+    mongodb:
+      database= account
+      host= localhost
+      password=
+      port= 27107
+      username=
