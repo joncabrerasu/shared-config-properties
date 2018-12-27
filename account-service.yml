@@ -1,9 +1,7 @@
 # MONGODB (MongoProperties)
 spring:
-  data:
-    mongodb:
-      database= account
-      host= localhost
-      password=
-      port= 27107
-      username=
+ data:
+  mongodb:
+   database: account
+   host: localhost
+   port: 27017
