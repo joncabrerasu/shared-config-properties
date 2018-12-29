@@ -1,0 +1,7 @@
+# MONGODB (MongoProperties)
+spring:
+ data:
+  mongodb:
+   database: turn
+   host: localhost
+   port: 27017
